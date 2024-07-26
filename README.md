@@ -15,6 +15,8 @@ Olá! Eu sou um recém-formado no ensino médio com uma grande paixão por *Cibe
 ## 🚀 Minhas Skills
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=B3B9C1" />
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=B3B9C1" />
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=B3B9C1" />
+<img align="center" alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=B3B9C1" />
 
 ## 📈 GitHub Stats
 
