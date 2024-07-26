@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B3B9C1&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Meu+nome+é+Antônio+!+:%29)](https://git.io/typing-svg)
 ## Sobre Mim
 
-Olá! Eu sou um recém-formado no ensino médio com uma grande paixão por *Cibersegurança, **Análise de Segurança, **Pentest* e *Ciência de Dados*. Estou entusiasmado para iniciar minha jornada no mundo da tecnologia e estou constantemente aprendendo novas habilidades e tecnologias.
+Olá! Eu sou um recém-formado no ensino médio com uma grande paixão por Cibersegurança, Análise de Segurança, Pentest e Ciência de Dados. Estou entusiasmado para iniciar minha jornada no mundo da tecnologia e estou constantemente aprendendo novas habilidades e tecnologias.
 <img align="right" height="200" style="margin-left: 25px" src="https://64.media.tumblr.com/b46b5f0c5a1fa6c1123a81207cd965d6/690c5984820641ae-da/s540x810/d6a48a699ede9108e9833434709611ba6381d179.gifv" alt="minha imagem">
 ## Habilidades e Competências
 
